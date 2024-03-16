@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710613076 source:c:\users\developer\desktop\all\courses\chalanges\c\solution_de_equation_second_degre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
